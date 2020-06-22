@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 The concepts that already covered in this repo:
 
-1. Static Rouring
+1. Static Routing
 1. Dynamic Routing
 
 ## Getting Started
