@@ -1,5 +1,4 @@
 import { useRouter } from "next/router";
-import Head from "next/head";
 
 const CityItem = () => {
   const router = useRouter();
